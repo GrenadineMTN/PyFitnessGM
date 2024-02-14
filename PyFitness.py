@@ -186,4 +186,4 @@ if __name__ == "__main__":
             eg.start_workout(type_of_workout, intensity, number_of_exercises, workout_interval)
 
         else:
-            print("Sorry, thats not a valid type of workout! Try again.")
+            print("Sorry, thats not a very valid type of workout! Try again.")
